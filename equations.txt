@@ -1,0 +1,7 @@
+﻿"outerDiameter"= 60mm
+"height"= 130mm
+"wallThickness"= 3mm
+"tolaranceValue"= 0.2mm'adjust this value to fit
+"plungerHole"= 20mm
+"coneHeight"= 35mm'height of the cone
+"coneTipDiameter"= 11mm'diameter of the cone tip"innerCylinderDiameter" = 61mm - 1.5mm"outerCylinderDiameter" = 67mm - 1.5mm"test" = "wallThickness""plungerOuterDiameter" = 53.8mm'(outerdiameter - 2*wallThickness - tolaranceValue)
