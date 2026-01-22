@@ -1,6 +1,6 @@
-﻿"outerDiameter"= 80mm'CHANGE THIS for cylinder diameter
-"height"= 150mm'CHANGE THIS for cylinder height (max is probably 150, not sure)"spoutDiameter" = 10mm'CHANGE THIS for spout diameter (exit hole)"coneHeight"= 55mm'height of the cone
-"wallThickness"= 3mm
-"tolaranceValue"= 0.2mm'adjust this value to fit (0.2 seems to work well, ma have to increase for larger parts)
+﻿"outerDiameter"= 120mm'CHANGE THIS for cylinder diameter
+"height"= 170mm'CHANGE THIS for cylinder height (max is probably 150, not sure)"spoutDiameter" = 10mm'CHANGE THIS for spout diameter (exit hole)"coneHeight"= 65mm'height of the cone
+"wallThickness"= 3.5mm
+"tolaranceValue"= 0.2mm'adjust this value to fit, used in the plunger (0.2 seems to work well, ma have to increase for larger parts)
 "plungerHole"= 20mm'used for the plunger thread and handle hole
-"coneTipDiameter"= "spoutDiameter" + 1"innerCylinderDiameter" = "outerDiameter" - 0.5mm"outerCylinderDiameter" = "outerDiameter" + (2*"wallThickness") - 0.5mm"plungerOuterDiameter" = "outerDiameter" - ( 2 * "wallThickness" ) - "tolaranceValue""spoutHeight" = 10mm"handleDepth" = 35mm
+"coneTipDiameter"= "spoutDiameter" + 1mm"innerCylinderDiameter" = "outerDiameter" - 0.5mm"outerCylinderDiameter" = "outerDiameter" + (2*"wallThickness") - 0.5mm"plungerOuterDiameter" = "outerDiameter" - ( 2 * "wallThickness" ) - "tolaranceValue""spoutHeight" = 10mm"handleDepth" = 35mm
